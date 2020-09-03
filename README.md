@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-- https://the-ga-honey-badgers.github.io/group-project-client/#/
+- https://sharon-zhao.github.io/Envoy-project-similar-to-reddit-/
 
 ## Planning Story
 
@@ -31,6 +31,6 @@ The biggest challenge and learning point from this project was understanding how
 ## Technologies Used
 - Python
 - Django
-- MongoDB
+- sqlite3
 - AWS(S3)
 - Heroku
